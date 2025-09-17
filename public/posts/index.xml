@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AssistantX Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on AssistantX Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Sep 2025 14:30:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 17 Sep 2025 14:30:34 +0200</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;introducing-assistantx-revolutionizing-customer-engagement-with-no-code-ai-chatbots-in-south-africa&#34;&gt;Introducing AssistantX: Revolutionizing Customer Engagement with No-Code AI Chatbots in South Africa&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Posted on September 17, 2025 by AssistantX Team&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;In today&amp;rsquo;s fast-paced digital landscape, South African businesses are constantly seeking innovative ways to connect with customers, streamline support, and drive growth—without breaking the bank or requiring a team of developers. That&amp;rsquo;s where &lt;strong&gt;AssistantX&lt;/strong&gt; comes in. We&amp;rsquo;re thrilled to announce the launch of our no-code AI chatbot platform, designed specifically for South African entrepreneurs, SMEs, and enterprises. Whether you&amp;rsquo;re in retail, finance, healthcare, education, or tourism, AssistantX empowers you to build powerful, multilingual AI chatbots that embed seamlessly on your website, handle customer queries 24/7, and comply with local regulations like POPIA.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
