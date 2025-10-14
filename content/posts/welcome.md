@@ -3,7 +3,7 @@ title: "Introducing AssistantX: Revolutionizing Customer Engagement with No-Code
 date: 2025-09-17T14:30:34+02:00
 draft: false
 tags: ["AI Chatbot South Africa", "No-Code AI", "Customer Support AI", "Multilingual Chatbot", "POPIA Compliant"]
-featured_image: "/images/assistantx-logo.jpg"
+featured_image: "https://assistantx.co.za/assistantx-logo.jpg"
 description: "AssistantX is a no-code AI chatbot platform designed for South African businesses, empowering you to build powerful, multilingual AI chatbots that handle customer queries 24/7."
 ---
 In today's fast-paced digital landscape, South African businesses are constantly seeking innovative ways to connect with customers, streamline support, and drive growth—without breaking the bank or requiring a team of developers. That's where **AssistantX** comes in. We're thrilled to announce the launch of our no-code AI chatbot platform, designed specifically for South African entrepreneurs, SMEs, and enterprises. Whether you're in retail, finance, healthcare, education, or tourism, AssistantX empowers you to build powerful, multilingual AI chatbots that embed seamlessly on your website, handle customer queries 24/7, and comply with local regulations like POPIA.
