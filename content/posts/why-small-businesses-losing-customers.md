@@ -1,12 +1,11 @@
 ---
-title: "Why Small Businesses Losing Customers"
+title: "Why 90% of South African Small Businesses Are Losing Customers (And How AI Can Save Them)"
 date: 2025-09-22T10:28:01+02:00
 draft: false
-tags: []
-featured_image: ""
-description: ""
+tags: ["Small Business", "South Africa", "Customer Support", "AI Chatbot", "WhatsApp"]
+featured_image: "https://assistantx.co.za/assistantx-logo.jpg"
+description: "Discover why 9 out of 10 South African small businesses are losing customers due to poor customer support, and how AI technology is now an affordable solution to save them."
 ---
-# Why 90% of South African Small Businesses Are Losing Customers (And How AI Can Save Them)
 
 **The shocking truth:** While big corporations like Capitec and Pick n Pay invest millions in AI customer service, 9 out of 10 South African small businesses are hemorrhaging customers due to poor customer support. But here's the plot twist – the same AI technology that powers Standard Bank's chatbots is now available to any spaza shop owner in Soweto for less than the cost of hiring a part-time receptionist.
 
