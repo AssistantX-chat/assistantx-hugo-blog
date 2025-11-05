@@ -3,7 +3,7 @@ title: "How to Create a WhatsApp AI Chatbot in 2025: Complete No-Code Guide for 
 date: 2025-11-05T09:00:00+02:00
 draft: false
 tags: ["WhatsApp Chatbot", "AI Chatbot", "WhatsApp Business API", "Small Business", "South Africa", "Tutorial", "No-Code"]
-featured_image: "https://assistantx.co.za/whatsapp-chatbot-tutorial-2025.jpg"
+featured_image: "https://blog.assistantx.co.za/whatsapp-chatbot-tutorial-2025.jpg"
 description: "Learn how to create a WhatsApp AI chatbot for your business in 2025. Complete step-by-step guide with no coding required. Perfect for South African SMEs looking to automate customer service on WhatsApp."
 ---
 
